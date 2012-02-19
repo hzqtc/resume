@@ -6,23 +6,21 @@
 
 ## Education
 
-### Computer Science and Technology, B.S.
+### Zhejiang University, Computer Science and Technology, B.S.
 #### Sep. 2006 - Jun. 2010
-#### Zhejiang University, Hangzhou.
 
 * Excentllent Student Scholarship
 * ACM Programming Contest 3rd prize
 * Outstanding Graduate
 
-### Computer Science and Technology, M.S.
+### Shanghai Jiao Tong University, Computer Science and Technology, M.S.
 #### Sep. 2010 - Mar. 2013
-#### Shanghai Jiao Tong University, Shanghai.
 
 * Scholarship for Graduate Students
 
 ## Experience
 
-### eBay China Development Center, Product Development Department, Shanghai
+### eBay CDC, Product Development Department, Shanghai
 #### Jul. 2009 - Jan. 2010
 #### Intern Software Engineer
 
@@ -39,13 +37,22 @@
 ## Open Source Projects
 
 ### [Blog](https://github.com/hzqtc/blog), my personal blog system hosted on Google App Engines.
-#### Python, jQuery, HTML5, Google App Engine.
 
-### [FMD](https://github.com/hzqtc/fmd), a music player daemon for Douban FM (inspired by MPD).
-#### Python, Gstreamer, JSON.
+* Backend technologies: Python and Google App Engine.
+
+* Frontend technologies: HTML5, CSS, JavaScript and jQuery.
+
+### [FMD](https://github.com/hzqtc/fmd), a music player daemon for Douban FM.
+
+* Server/Client model. A daemon running in background playing music from Douban FM.
+
+* Various clients connect to the daemon through TCP and exchange data in JSON.
 
 ### [SimpleRPC](https://github.com/hzqtc/simplerpc), a simple C++ RPC framework.
-#### C++, RPC, Serialization, Deserialization.
+
+* Remote Procedure Call through TCP connections.
+
+* Requests and reponses are serialized before transfering and deserialized after receiving.
 
 ## Skills
 
