@@ -1,24 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Kotta+One);
+
 * {
 	margin: 0;
 	padding: 0;
 }
 
-body {
-	color: #333333;
-	background-color: #f9f9f9;
-}
-
 #resume {
+	color: #333333;
 	width: 800px;
 	margin: 0 auto;
 	padding: 10px;
-	font-family: serif;
-	font-size: 11pt;
+	font-family: "Kotta One", serif;
+	font-size: 13pt;
 	line-height: 1.4em;
 }
 
 h1 {
-	font-size: 20pt;
+	font-size: 22pt;
 	margin-top: 0.5em;
 	float: left;
 }
@@ -31,20 +29,22 @@ ol {
 
 h2 {
 	clear: both;
-	font-size: 15pt;
+	font-size: 17pt;
 	margin-top: 0.5em;
-	border-top: 4px solid #e0e0e0;
-	padding-top: 0.5em;
+	border-bottom: 4px solid #e0e0e0;
+	padding-bottom: 0.5em;
+	text-align: right;
+	font-variant: small-caps;
+	letter-spacing: 2px;
 }
 
 h3 {
-	font-size: 13pt;
+	font-size: 15pt;
 	margin-top: 0.5em;
 }
 
 h4 {
-	font-size: 11pt;
-	font-style: italic;
+	font-size: 13pt;
 	font-weight: normal;
 }
 
@@ -65,5 +65,4 @@ a, a:visited {
 
 a:hover {
 	color: #4183C4;
-	text-decoration: underline;
 }
