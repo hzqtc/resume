@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #333333;
+	background-color: #f9f9f9;
+}
+
+#resume {
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	font-family: serif;
+	font-size: 11pt;
+}
+
+h1 {
+	font-size: 20pt;
+	margin-top: 0.5em;
+}
+
+h2 {
+	font-size: 15pt;
+	margin-top: 0.5em;
+	border-top: 4px solid #e0e0e0;
+	padding-top: 0.5em;
+}
+
+h3 {
+	font-size: 13pt;
+	margin-top: 0.5em;
+}
+
+h4 {
+	font-size: 11pt;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 0.3em;
+}
+
+ul {
+	margin-left: 2em;
+	margin-top: 1em;
+}
+
+li {
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+a, a:visited {
+	color: #4183C4;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
