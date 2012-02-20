@@ -1,8 +1,8 @@
 # Zhiqiang Huang
 
-* <hzqtc1229@gmail.com>
-* <http://johnny-huang.appspot.com>
-* 188-0190-0023
+1. <hzqtc1229@gmail.com>
+2. <http://johnny-huang.appspot.com>
+3. 188-0190-0023
 
 ## Education
 
@@ -34,22 +34,22 @@
 
 ## Projects
 
-### PyBlog: <https://github.com/hzqtc/blog>
-#### A full-featured personal blog system for Google App Engines.
+### PyBlog: A full-featured personal blog system for Google App Engines.
+#### <https://github.com/hzqtc/blog>
 
 * Backend technologies: Python and Google App Engine.
 
 * Frontend technologies: HTML5, CSS, JavaScript and jQuery.
 
-### FMD: <https://github.com/hzqtc/fmd>
-#### A MPD-like music player daemon for Douban FM.
+### FMD: A MPD-like music player daemon for Douban FM.
+#### <https://github.com/hzqtc/fmd>
 
 * Server/Client model. A daemon running in background playing music from Douban FM.
 
 * Various clients connect to the daemon through TCP and exchange data in JSON.
 
-### SimpleRPC: <https://github.com/hzqtc/simplerpc>
-#### Prototype of a TCP-based C++ RPC framework.
+### SimpleRPC: Prototype of a TCP-based C++ RPC framework.
+#### <https://github.com/hzqtc/simplerpc>
 
 * Remote Procedure Call through TCP connections.
 
