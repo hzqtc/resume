@@ -20,35 +20,36 @@
 
 ## Experience
 
-### eBay CDC, Product Development Department, Shanghai
+### eBay CDC, Intern Software Engineer, Shanghai
 #### Jul. 2009 - Jan. 2010
-#### Intern Software Engineer
 
 * Develop and maintain Custom Support products and APIs.
 * Design and develop several internal debug tools.
 
-### Baidu, Client Software Department, Beijing.
+### Baidu, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
-#### Intern R&D Engineer
 
 * In charge of design and development of server side auto-update module for serverl client applications.
 * Participate in server side design and development of Baidu Inside.
 
-## Open Source Projects
+## Projects
 
-### [Blog](https://github.com/hzqtc/blog), my personal blog system hosted on Google App Engines.
+### PyBlog: <https://github.com/hzqtc/blog>
+#### A full-featured personal blog system for Google App Engines.
 
 * Backend technologies: Python and Google App Engine.
 
 * Frontend technologies: HTML5, CSS, JavaScript and jQuery.
 
-### [FMD](https://github.com/hzqtc/fmd), a music player daemon for Douban FM.
+### FMD: <https://github.com/hzqtc/fmd>
+#### A MPD-like music player daemon for Douban FM.
 
 * Server/Client model. A daemon running in background playing music from Douban FM.
 
 * Various clients connect to the daemon through TCP and exchange data in JSON.
 
-### [SimpleRPC](https://github.com/hzqtc/simplerpc), a simple C++ RPC framework.
+### SimpleRPC: <https://github.com/hzqtc/simplerpc>
+#### Prototype of a TCP-based C++ RPC framework.
 
 * Remote Procedure Call through TCP connections.
 
