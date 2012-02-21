@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Kotta+One);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700);
 
 * {
 	margin: 0;
@@ -10,13 +10,13 @@
 	width: 800px;
 	margin: 0 auto;
 	padding: 10px;
-	font-family: "Kotta One", serif;
+	font-family: "Droid Serif", serif;
 	font-size: 13pt;
 	line-height: 1.4em;
 }
 
 h1 {
-	font-size: 22pt;
+	font-size: 30pt;
 	margin-top: 0.5em;
 	float: left;
 }
@@ -40,22 +40,18 @@ h2 {
 
 h3 {
 	font-size: 15pt;
-	margin-top: 0.5em;
+	margin-top: 1em;
 }
 
 h4 {
 	font-size: 13pt;
 	font-weight: normal;
+	font-style: italic;
 }
 
 ul {
 	margin-left: 2em;
 	margin-top: 0.5em;
-}
-
-li {
-	margin-top: 0.3em;
-	margin-bottom: 0.3em;
 }
 
 a, a:visited {
