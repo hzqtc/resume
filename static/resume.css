@@ -31,23 +31,26 @@ h2 {
 	margin-top: 0.5em;
 	border-bottom: 4px solid #e0e0e0;
 	padding-bottom: 0.5em;
-	text-align: right;
 	font-variant: small-caps;
 	letter-spacing: 2px;
 }
 
 h3 {
-	font-size: 13pt;
+	font-size: 11pt;
 	margin-top: 1em;
+	float: left;
 }
 
 h4 {
 	font-size: 11pt;
 	font-weight: normal;
 	font-style: italic;
+	margin-top: 1em;
+	float: right;
 }
 
 ul {
+	clear: both;
 	margin-left: 2em;
 	margin-top: 0.5em;
 }

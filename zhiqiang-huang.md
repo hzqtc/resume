@@ -34,7 +34,7 @@
 
 ## Projects
 
-### PyBlog: A full-featured personal blog system for Google App Engines.
+### PyBlog: A full-featured blog system for Google App Engines.
 #### <https://github.com/hzqtc/blog>
 
 * Backend technologies: Python and Google App Engine.
