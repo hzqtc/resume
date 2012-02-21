@@ -29,7 +29,7 @@
 ### Baidu, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
 
-* In charge of design and development of server side auto-update module for serverl client applications.
+* In charge of a universal server side auto-update module for serverl client applications.
 * Participate in server side design and development of Baidu Inside.
 
 ## Projects
@@ -61,13 +61,13 @@
 
 * Mostly used programming languages: Python, C/C++, Java, Bash.
 
-* Good knowledge and understanding of Algorithm Design, Data Structure and Design Patterns.
+* Good knowledge and understanding of Algorithm, Data Structure and Design Patterns.
 
 ### Software
 
 * I have been using Linux for both personal and server use since 2006.
 
-* I have experience using most modern development tools in Linux including Vim, Shell, Make, Git.
+* Experience with modern development tools in Linux including Vim, Shell, Make and Git.
 
 * Experience with virtualization environments in Linux including Xen and KVM.
 
