@@ -69,5 +69,3 @@
 
 * Good at reading and writing in English. Basic English communication skills.
 * CET-4: 585/710; CET-6: 549/710.
-
-<!-- vim: set filetype=markdown : -->
