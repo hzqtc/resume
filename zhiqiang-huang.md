@@ -29,7 +29,7 @@
 ### Baidu, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
 
-* In charge of a universal server side auto-update module for serverl client applications.
+* In charge of the server side of a universal auto-update module for serverl client applications.
 * Participate in server side design and development of Baidu Inside.
 
 ## Projects
@@ -38,21 +38,18 @@
 #### <https://github.com/hzqtc/blog>
 
 * Backend technologies: Python and Google App Engine.
-
 * Frontend technologies: HTML5, CSS, JavaScript and jQuery.
 
 ### FMD: A MPD-like music player daemon for Douban FM.
 #### <https://github.com/hzqtc/fmd>
 
 * Server/Client model. A daemon running in background playing music from Douban FM.
-
 * Various clients connect to the daemon through TCP and exchange data in JSON.
 
 ### SimpleRPC: Prototype of a TCP-based C++ RPC framework.
 #### <https://github.com/hzqtc/simplerpc>
 
 * Remote Procedure Call through TCP connections.
-
 * Requests and reponses are serialized before transfering and deserialized after receiving.
 
 ## Skills
@@ -60,21 +57,17 @@
 ### Programming
 
 * Mostly used programming languages: Python, C/C++, Java, Bash.
-
 * Good knowledge and understanding of Algorithm, Data Structure and Design Patterns.
 
 ### Software
 
 * I have been using Linux for both personal and server use since 2006.
-
-* Experience with modern development tools in Linux including Vim, Shell, Make and Git.
-
+* Experience with modern development tools in Linux including Vim, Shell, SSH, Make and Git.
 * Experience with virtualization environments in Linux including Xen and KVM.
 
 ### English
 
 * Good at reading and writing in English. Basic English communication skills.
-
 * CET-4: 585/710; CET-6: 549/710.
 
 <!-- vim: set filetype=markdown : -->
