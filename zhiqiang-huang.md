@@ -1,7 +1,7 @@
 # Zhiqiang Huang
 
 1. <hzqtc1229@gmail.com>
-2. <http://johnny-huang.appspot.com/>
+2. <http://hzqtc.github.com/>
 3. 188-0190-0023
 
 ## Education
@@ -44,7 +44,7 @@
 #### [github.com/hzqtc/fmd](https://github.com/hzqtc/fmd)
 
 * Server/Client model. A daemon running in background playing music from Douban FM.
-* Various clients connect to the daemon through TCP and exchange data in JSON.
+* Various clients connect to the daemon through TCP and communicate with the server in JSON.
 
 ### SimpleRPC: Prototype of a socket-based C++ RPC framework.
 #### [github.com/hzqtc/simplerpc](https://github.com/hzqtc/simplerpc)
