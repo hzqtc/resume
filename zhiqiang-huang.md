@@ -46,7 +46,7 @@
 * Server/Client model. A daemon running in background playing music from Douban FM.
 * Various clients connect to the daemon through TCP and exchange data in JSON.
 
-### SimpleRPC: Prototype of a TCP-based C++ RPC framework.
+### SimpleRPC: Prototype of a socket-based C++ RPC framework.
 #### [github.com/hzqtc/simplerpc](https://github.com/hzqtc/simplerpc)
 
 * Remote Procedure Call through TCP connections.
