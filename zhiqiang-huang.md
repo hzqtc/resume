@@ -61,7 +61,7 @@
 
 ### Software
 
-* I have been using Linux for both personal and server use since 2006.
+* I have been using Linux for both personal and server use since 2007.
 * Experience with modern development tools in Linux including Vim, Shell, SSH, Make and Git.
 * Experience with virtualization environments in Linux including Xen and KVM.
 
