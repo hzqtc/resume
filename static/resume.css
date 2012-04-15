@@ -7,7 +7,7 @@
 	color: #333333;
 	width: 800px;
 	margin: 50px auto;
-	font-family: "Droid Serif", "SimHei", serif;
+	font-family: "Droid Serif", serif;
 	line-height: 1.4em;
 }
 
@@ -46,6 +46,7 @@ h4 {
 	font-weight: normal;
 	margin-top: 1em;
 	float: right;
+    font-style: italic;
 }
 
 ul {
