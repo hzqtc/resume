@@ -46,12 +46,6 @@
 * 采用了服务端/客户端模型，服务端在常驻后台运行，播放豆瓣电台。
 * 各种各样的客户端都可以通过TCP连接到服务端，以JSON格式与服务端通信。
 
-### SimpleRPC：一个基于Socket的C++远程方法调用框架原型。
-#### [github.com/hzqtc/simplerpc](https://github.com/hzqtc/simplerpc)
-
-* 通过TCP连接实现远程方法调用。
-* 请求和响应在传输之前被序列化，在接收之后再被反序列化。
-
 ## 专业技能
 
 ### 程序设计
