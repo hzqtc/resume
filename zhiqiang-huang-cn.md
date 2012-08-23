@@ -55,29 +55,25 @@
 ### PyBlog：一个适用于Google App Engine的全功能博客系统。
 #### [github.com/hzqtc/blog](https://github.com/hzqtc/blog)
 
-* 后端技术：Python和Google App Engine。
+* 后端技术：Python、分布式数据存储和Google App Engine。
 * 前端技术：HTML5、CSS、JavaScript和jQuery。
 
 ### FMD：一个类似MPD的豆瓣电台后台播放器。
 #### [github.com/hzqtc/fmd](https://github.com/hzqtc/fmd)
 
 * 采用了服务端/客户端模型，服务端在常驻后台运行，播放豆瓣电台。
-* 各种各样的客户端都可以通过TCP连接到服务端，以JSON格式与服务端通信。
+* 各种各样的客户端都可以连接到服务端，以特定协议与服务端通信。
 
 ## 专业技能
 
 ### 程序设计
 
-* 常用编程语言：Python、C/C++、Java和Bash。
-* 良好的算法、数据结构以及设计模式基础和理解。
-
-### 软件工具
-
-* 从2007年开始使用Linux作为个人工作站和服务器。
+* 常用编程语言：Python、C, C++、Java和Bash。
+* 良好的算法、数据结构以及面向对象程序设计知识。
 * 熟练使用Linux环境下的现代开发工具，包括Vim、Shell、SSH、Make和Git。
-* 有Linux下虚拟化环境的使用和开发经验，包括Xen和KVM。
 
 ### 英语能力
 
-* 良好的英语读写能力。能够使用英语进行基本交流。
+* 良好的英语读写能力。
+* 流利使用英语口语进行日常和工作交流。
 * 大学英语四级：585/710；大学英语六级：549/710.

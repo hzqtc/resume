@@ -55,29 +55,25 @@
 ### PyBlog: A full-featured blog system for Google App Engines.
 #### [github.com/hzqtc/blog](https://github.com/hzqtc/blog)
 
-* Backend technologies: Python and Google App Engine.
+* Backend technologies: Python, Distributed Database and Google App Engine.
 * Frontend technologies: HTML5, CSS, JavaScript and jQuery.
 
 ### FMD: A MPD-like music player daemon for Douban FM.
 #### [github.com/hzqtc/fmd](https://github.com/hzqtc/fmd)
 
-* Server/Client model. A daemon running in background playing music from Douban FM.
-* Various clients connect to the daemon through TCP and communicate with the server in JSON.
+* Server/Client model. A daemon server runs in background playing music from Douban FM.
+* Various clients can connect to the server and communicate with the server using a given protocol.
 
 ## Skills
 
 ### Programming
 
-* Mostly used programming languages: Python, C/C++, Java, Bash.
-* Good knowledge and understanding of Algorithm, Data Structure and Design Patterns.
-
-### Software
-
-* I have been using Linux for both personal and server use since 2007.
-* Experience with modern development tools in Linux including Vim, Shell, SSH, Make and Git.
-* Experience with virtualization environments in Linux including Xen and KVM.
+* Mostly used programming languages: Python, C, C++, Java, Bash.
+* Good knowledge of Algorithm, Data Structure and Object-oriented Programming.
+* Rich experience with modern development tools in Linux including Vim, Shell, SSH, Make and Git.
 
 ### English
 
-* Good at reading and writing in English. Basic English communication skills.
+* Good English reading and writing skills.
+* Fluent oral English in daily life and business communication.
 * CET-4: 585/710; CET-6: 549/710.
