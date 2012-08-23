@@ -9,4 +9,4 @@ index-cn.html: zhiqiang-huang-cn.md views/layout.html
 .PHONY: clean
 
 clean:
-	rm *.html
+	rm -f *.html

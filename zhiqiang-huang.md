@@ -2,35 +2,53 @@
 
 1. <hzqtc1229@gmail.com>
 2. <http://hzqtc.github.com/>
-3. 188-0190-0023
+3. +86 18801900023
 
 ## Education
 
 ### Zhejiang University, Computer Science and Technology, B.S.
 #### Sep. 2006 - Jun. 2010
 
-* Excentllent Student Scholarship
-* ACM Programming Contest 3rd prize
-* Outstanding Graduate
+* 2nd class excentllent student scholarship.
+* 3rd prize in ACM programming contest of Zhejiang University.
+* Outstanding graduate student of Zhejiang University.
 
 ### Shanghai Jiao Tong University, Computer Science and Technology, M.S.
 #### Sep. 2010 - Mar. 2013
 
-* Scholarship for Graduate Students
+* 2nd class scholarship for graduate students.
 
-## Experience
+## Internship
 
-### eBay CDC, Intern Software Engineer, Shanghai
+### eBay CDC, Comsumer Support Development, Intern Software Engineer, Shanghai
 #### Jul. 2009 - Jan. 2010
 
-* Develop and maintain Custom Support products and APIs.
+* Develop and maintain Consumer Support products and APIs.
 * Design and develop several internal debug tools.
 
-### Baidu, Intern R&D Engineer, Beijing.
+### Baidu, Client Software, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
 
 * In charge of the server side of a universal auto-update module for serverl client applications.
 * Participate in server side design and development of Baidu Inside.
+
+### Baidu, Union Development, Intern R&D Engineer, Shanghai.
+#### Jul. 2012 - Now
+
+* Page feature related data mining using MapReduce and Hadoop.
+* Offline page feature server development.
+
+## Publications
+
+### Adaptive and Scalable Optimizations for High Performance SR-IOV
+#### IEEE CLUSTER 2012
+
+* Resolve the performance and scalability bottleneck in Single Root I/O Virtualization (SR-IOV).
+
+### Adjustable Credit Scheduling for High Performance Network Virtualization
+#### IEEE CLUSTER 2012
+
+* Propose a dynamically credit scheduling framework for high performance network virtualization.
 
 ## Projects
 
