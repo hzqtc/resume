@@ -14,7 +14,7 @@
 * Outstanding graduate student of Zhejiang University.
 
 ### Shanghai Jiao Tong University, Computer Science and Technology, M.S.
-#### Sep. 2010 - Mar. 2013
+#### Sep. 2010 - Apr. 2013
 
 * 2nd class scholarship for graduate students.
 
@@ -23,8 +23,7 @@
 ### eBay CDC, Comsumer Support Development, Intern Software Engineer, Shanghai
 #### Jul. 2009 - Jan. 2010
 
-* Develop and maintain Consumer Support products and APIs.
-* Design and develop several internal debug tools.
+* Develop and maintain Consumer Support products and debug tools.
 
 ### Baidu, Client Software, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
@@ -62,15 +61,15 @@
 #### [github.com/hzqtc/fmd](https://github.com/hzqtc/fmd)
 
 * Server/Client model. A daemon server runs in background playing music from Douban FM.
-* Various clients can connect to the server and communicate with the server using a given protocol.
+* Various clients (CLI, GUI, Web) can connect to the server and communicate with the server.
 
 ## Skills
 
 ### Programming
 
-* Mostly used programming languages: Python, C, C++, Java, Bash.
+* Mostly used programming languages: Python, C, C++, Java, etc.
 * Good knowledge of Algorithm, Data Structure and Object-oriented Programming.
-* Rich experience with modern development tools in Linux including Vim, Shell, SSH, Make and Git.
+* Rich experience with modern development tools in Linux including Vim, Shell, SSH, Make, Git, etc.
 
 ### English
 
