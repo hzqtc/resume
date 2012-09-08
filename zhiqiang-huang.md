@@ -6,17 +6,17 @@
 
 ## Education
 
+### Shanghai Jiao Tong University, Computer Science and Technology, M.S.
+#### Sep. 2010 - Apr. 2013
+
+* 2nd class scholarship for graduate students.
+
 ### Zhejiang University, Computer Science and Technology, B.S.
 #### Sep. 2006 - Jun. 2010
 
 * 2nd class excentllent student scholarship.
 * 3rd prize in ACM programming contest of Zhejiang University.
 * Outstanding graduate student of Zhejiang University.
-
-### Shanghai Jiao Tong University, Computer Science and Technology, M.S.
-#### Sep. 2010 - Apr. 2013
-
-* 2nd class scholarship for graduate students.
 
 ## Internship
 
