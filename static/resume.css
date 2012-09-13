@@ -68,3 +68,14 @@ a, a:visited {
 a:hover {
 	color: #4183C4;
 }
+
+hr {
+    border: 2px solid #e0e0e0;
+    margin: 0.5em 0;
+}
+
+hr + p {
+    text-align: right;
+    font-size: 0.8em;
+    font-style: italic;
+}

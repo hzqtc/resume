@@ -66,7 +66,7 @@
 
 ### Programming
 
-* Mostly used programming languages: Python, C, C++, Java, etc.
+* Mostly used programming languages: C, C++, Java, Python, etc.
 * Good knowledge of Algorithm, Data Structure and Object-oriented Programming.
 * Rich experience with modern development tools in Linux including Vim, Shell, SSH, Make, Git, etc.
 
@@ -75,3 +75,6 @@
 * Good English reading and writing skills.
 * Fluent oral English in daily life and business communication.
 * CET-4: 585/710; CET-6: 549/710.
+
+---
+Get the latest version at: <http://hzqtc.github.com/resume>
