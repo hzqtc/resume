@@ -20,22 +20,21 @@
 
 ## Internship
 
-### eBay CDC, Comsumer Support Development, Intern Software Engineer, Shanghai
-#### Jul. 2009 - Jan. 2010
+### Baidu, Union Development, Intern R&D Engineer, Shanghai.
+#### Jul. 2012 - Now
 
-* Develop and maintain Consumer Support products and debug tools.
+* Page feature related data mining using MapReduce and Hadoop.
+* Offline page feature server development.
 
 ### Baidu, Client Software, Intern R&D Engineer, Beijing.
 #### Jul. 2010 - Sep. 2010
 
 * In charge of the server side of a universal auto-update module for serverl client applications.
 * Participate in server side design and development of Baidu Inside.
+### eBay CDC, Customer Support Development, Intern Software Engineer, Shanghai
+#### Jul. 2009 - Jan. 2010
 
-### Baidu, Union Development, Intern R&D Engineer, Shanghai.
-#### Jul. 2012 - Now
-
-* Page feature related data mining using MapReduce and Hadoop.
-* Offline page feature server development.
+* Develop and maintain Consumer Support products and debug tools.
 
 ## Publications
 
