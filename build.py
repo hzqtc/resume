@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 
 from jinja2 import Environment, Template, FileSystemLoader
-import markdown
+import markdown2
 import sys
 import codecs
 
@@ -13,7 +13,7 @@ env = Environment(loader = FileSystemLoader('views'))
 template = env.get_template("layout.html")
 
 text = codecs.open(sys.argv[1], 'r', 'utf-8').read()
-md = markdown.markdown(text)
+md = markdown2.markdown(text)
 title = text[2:text.index('\n')]
 
 with codecs.open(sys.argv[2], 'w', 'utf-8') as f:

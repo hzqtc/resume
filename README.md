@@ -2,7 +2,7 @@
 
 Johnny Huang's resume and related stuffs.
 
-Resume data is stored in Markdown format and transformed into HTML using [Python-Markdown](https://github.com/waylan/Python-Markdown) and [Jinja](https://github.com/mitsuhiko/jinja2) template engine.
+Resume data is stored in Markdown format and transformed into HTML using [python-markdown2](https://github.com/trentm/python-markdown2) and [Jinja](https://github.com/mitsuhiko/jinja2) template engine.
 
 ## Why Markdown?
 
