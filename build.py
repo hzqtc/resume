@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 
 from jinja2 import Environment, Template, FileSystemLoader
 import markdown2
