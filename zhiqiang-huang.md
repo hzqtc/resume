@@ -2,7 +2,6 @@
 
 1. <hzqtc1229@gmail.com>
 2. <http://hzqtc.github.com/>
-3. +86 18801900023
 
 ## Education
 
