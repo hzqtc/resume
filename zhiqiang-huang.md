@@ -17,23 +17,28 @@
 * 3rd prize in ACM programming contest of Zhejiang University.
 * Outstanding graduate student of Zhejiang University.
 
-## Internship
+## Career
 
-### Baidu, Union Development, Intern R&D Engineer, Shanghai.
-#### Jul. 2012 - Now
+### [Fulltime] Google, Software Enginner, Shanghai.
+#### Jul. 2013 - Now
 
-* Page feature related data mining using MapReduce and Hadoop.
-* Offline page feature server development.
+* Develop AdWords Express frontend.
 
-### Baidu, Client Software, Intern R&D Engineer, Beijing.
-#### Jul. 2010 - Sep. 2010
+### [Internship] Baidu, Intern R&D Engineer, Shanghai.
+#### Jul. 2012 - Oct. 2012
 
-* In charge of the server side of a universal auto-update module for serverl client applications.
-* Participate in server side design and development of Baidu Inside.
-### eBay CDC, Customer Support Development, Intern Software Engineer, Shanghai
+* Pafe feature data processing with MapReduce and Hadoop.
+
+### [Internship] Baidu, Intern R&D Engineer, Beijing.
+#### Jul. 2010 - Oct. 2010
+
+* Design and implement auto-update server for client softwares independently.
+* Design and implement an one-time token login system.
+
+### [Internship] eBay, Intern Software Engineer, Shanghai
 #### Jul. 2009 - Jan. 2010
 
-* Develop and maintain Consumer Support products and debug tools.
+* Develop and maintain customer support products and debug tools.
 
 ## Publications
 
@@ -47,33 +52,13 @@
 
 * Propose a dynamically credit scheduling framework for high performance network virtualization.
 
-## Projects
-
-### PyBlog: A full-featured blog system for Google App Engine.
-#### [github.com/hzqtc/blog](https://github.com/hzqtc/blog)
-
-* Backend technologies: Python, Distributed Database and Google App Engine.
-* Frontend technologies: HTML5, CSS, JavaScript and jQuery.
-
-### FMD: A MPD-like music player daemon for Douban FM.
-#### [github.com/hzqtc/fmd](https://github.com/hzqtc/fmd)
-
-* Server/Client model. A daemon server runs in background playing music from Douban FM.
-* Various clients (CLI, GUI, Web) can connect to the server and communicate with the server.
-
 ## Skills
 
-### Programming
+### Software Engineering
 
-* Mostly used programming languages: C, C++, Java, Python, etc.
-* Good knowledge of Algorithm, Data Structure and Object-oriented Programming.
-* Rich experience with modern development tools in Linux including Vim, Shell, SSH, Make, Git, etc.
-
-### English
-
-* Good English reading and writing skills.
-* Fluent oral English in daily life and business communication.
-* CET-4: 585/710; CET-6: 549/710.
+* Familiar with common programming languages: Java, C, C++, Python, etc.
+* Good knowledge of algorithm, data structure, object-Oriented programming and design patterns.
+* Experience on Android application development.
 
 ---
 Get the latest version at: <http://hzqtc.github.com/resume>
