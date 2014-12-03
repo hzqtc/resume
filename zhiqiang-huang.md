@@ -19,46 +19,32 @@
 
 ## Career
 
-### [Fulltime] Google, Software Enginner, Shanghai.
-#### Jul. 2013 - Now
+### [Fulltime] Google, Software Enginner. @Mountain View, US.
+#### Oct. 2014 - Now
 
-* Develop AdWords Express frontend.
+### [Fulltime] Google, Software Enginner. @Shanghai, China.
+#### Jul. 2013 - Oct. 2014
 
-### [Internship] Baidu, Intern R&D Engineer, Shanghai.
+### [Internship] Baidu, Intern R&D Engineer. @Shanghai, China.
 #### Jul. 2012 - Oct. 2012
 
-* Pafe feature data processing with MapReduce and Hadoop.
-
-### [Internship] Baidu, Intern R&D Engineer, Beijing.
+### [Internship] Baidu, Intern R&D Engineer. @Beijing, China.
 #### Jul. 2010 - Oct. 2010
 
-* Design and implement auto-update server for client softwares independently.
-* Design and implement an one-time token login system.
-
-### [Internship] eBay, Intern Software Engineer, Shanghai
+### [Internship] eBay, Intern Software Engineer. @Shanghai, China.
 #### Jul. 2009 - Jan. 2010
-
-* Develop and maintain customer support products and debug tools.
 
 ## Publications
 
 ### Adaptive and Scalable Optimizations for High Performance SR-IOV
 #### IEEE CLUSTER 2012
 
-* Resolve the performance and scalability bottleneck in Single Root I/O Virtualization (SR-IOV).
-
-### Adjustable Credit Scheduling for High Performance Network Virtualization
-#### IEEE CLUSTER 2012
-
-* Propose a dynamically credit scheduling framework for high performance network virtualization.
-
 ## Skills
 
-### Software Engineering
-
-* Familiar with common programming languages: Java, C, C++, Python, etc.
-* Good knowledge of algorithm, data structure, object-Oriented programming and design patterns.
-* Experience on Android application development.
+* Open and happy to communication and collaboration.
+* Solid knowledge of algorithm, data structure, object-Oriented programming and design patterns.
+* 1 year experience on Android application development.
+* 1 year experience on Java development.
 
 ---
 Get the latest version at: <http://hzqtc.github.com/resume>
