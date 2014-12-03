@@ -19,25 +19,31 @@
 
 ## Career
 
-### [Fulltime] Google, Software Enginner. @Mountain View, US.
+### Google @ Mountain View, US.
 #### Oct. 2014 - Now
+* Full time Software Engineer.
 
-### [Fulltime] Google, Software Enginner. @Shanghai, China.
+### Google @ Shanghai, China.
 #### Jul. 2013 - Oct. 2014
+* Full time Software Engineer.
 
-### [Internship] Baidu, Intern R&D Engineer. @Shanghai, China.
+###  Baidu @ Shanghai, China.
 #### Jul. 2012 - Oct. 2012
+* Intern R&D Engineer
 
-### [Internship] Baidu, Intern R&D Engineer. @Beijing, China.
+### Baidu @ Beijing, China.
 #### Jul. 2010 - Oct. 2010
+* Intern R&D Engineer
 
-### [Internship] eBay, Intern Software Engineer. @Shanghai, China.
+### eBay @ Shanghai, China.
 #### Jul. 2009 - Jan. 2010
+* Intern Software Engineer
 
 ## Publications
 
 ### Adaptive and Scalable Optimizations for High Performance SR-IOV
 #### IEEE CLUSTER 2012
+* Resolve the performance and scalability bottleneck in Single Root I/O Virtualization (SR-IOV).
 
 ## Skills
 
