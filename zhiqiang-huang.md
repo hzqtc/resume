@@ -1,7 +1,7 @@
 # Zhiqiang Huang
 
 1. <hzqtc1229@gmail.com>
-2. <http://hzqtc.github.com/>
+2. <http://hzqtc.github.io/>
 
 ## Education
 
@@ -19,38 +19,22 @@
 
 ## Career
 
-### Google @ Mountain View, US.
+### Google Inc, Mountain View, CA, US.
 #### Oct. 2014 - Now
-* Full time Software Engineer.
+* Fulltime Software Engineer.
+* Build Google AdWords Express frontend (including website and Android app) using Google proprieatry softwares and skills.
 
-### Google @ Shanghai, China.
+### Google Inc, Shanghai, China.
 #### Jul. 2013 - Oct. 2014
-* Full time Software Engineer.
-
-###  Baidu @ Shanghai, China.
-#### Jul. 2012 - Oct. 2012
-* Intern R&D Engineer
-
-### Baidu @ Beijing, China.
-#### Jul. 2010 - Oct. 2010
-* Intern R&D Engineer
-
-### eBay @ Shanghai, China.
-#### Jul. 2009 - Jan. 2010
-* Intern Software Engineer
-
-## Publications
-
-### Adaptive and Scalable Optimizations for High Performance SR-IOV
-#### IEEE CLUSTER 2012
-* Resolve the performance and scalability bottleneck in Single Root I/O Virtualization (SR-IOV).
+* Fulltime Software Engineer.
+* Build Google AdWords Express frontend (including website and Android app) using Google proprieatry softwares and skills.
 
 ## Skills
 
 * Open and happy to communication and collaboration.
 * Solid knowledge of algorithm, data structure, object-Oriented programming and design patterns.
-* 1 year experience on Android application development.
-* 1 year experience on Java development.
+* 2+ year experience on Android application development.
+* 2+ year experience on Java development.
 
 ---
-Get the latest version at: <http://hzqtc.github.com/resume>
+Get the latest version at: <http://hzqtc.github.io/resume>
